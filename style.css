@@ -1,0 +1,27 @@
+.heading {
+    color: rgb(5, 5, 128);
+    font-size: large;
+    font-weight: lighter;
+    font-family: 'Mouse Memoirs', sans-serif, 'cursive';
+    width: 90%;
+    box-shadow: -15px 15px 15px #3bd870;
+    margin: 0px;
+}
+.note {
+    font-size: medium;
+    color: #5d0caa;
+}
+.copy_right_footer {
+    font-family: 'Mouse Memoirs', sans-serif, 'cursive';
+    position: fixed;
+    color: rgb(7, 7, 145);
+    background-color: cadetblue;
+    line-height: 2;
+    text-align: center;
+    bottom: 0;
+}
+canvas {
+    border: 5px solid rgb(11, 23, 136);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgb(138, 58, 138);
+}
